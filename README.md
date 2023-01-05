@@ -1,5 +1,16 @@
 # TreatSecurityInLinuxServers
 
+!Do Not Use The Following Codes For Any Bad Purpose!
+!The Followimg Code Show An Guide Line Of Ideas How You Should Not Build Your Farmware!
+!Always In Your Programs You Sould Consider The Edges Scenarios Of Security!
+
+
+Do Not Use The Following Codes For Any Bad Purpos
+Do Not Use The Following Codes For Any Bad Purpose
+when linux server compile and checking your code and you under a system user
+you can ran program for connect the linux server for interface and over control
+the server from this interface , for example university who check 
+the Wet hw on linux server
 1)
 To turn on anonymous mode on a Linux server, you can follow these steps:
 
